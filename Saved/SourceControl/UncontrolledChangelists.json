@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Owner/Documents/Unreal Projects/UnrealPractice/Content/FirstPerson/MI_FirstPersonColorway.uasset",
+				"C:/Users/Owner/Documents/Unreal Projects/UnrealPractice/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Owner/Documents/Unreal Projects/UnrealPractice/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset",
+				"C:/Users/Owner/Documents/Unreal Projects/UnrealPractice/Content/LevelPrototyping/Meshes/SM_Cylinder.uasset",
+				"C:/Users/Owner/Documents/Unreal Projects/UnrealPractice/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset",
+				"C:/Users/Owner/Documents/Unreal Projects/UnrealPractice/Content/LevelPrototyping/Interactable/Target/Assets/SM_TargetBaseMesh.uasset",
+				"C:/Users/Owner/Documents/Unreal Projects/UnrealPractice/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_Door.uasset",
+				"C:/Users/Owner/Documents/Unreal Projects/UnrealPractice/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Corner.uasset",
+				"C:/Users/Owner/Documents/Unreal Projects/UnrealPractice/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Edge.uasset",
+				"C:/Users/Owner/Documents/Unreal Projects/UnrealPractice/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularBand.uasset",
+				"C:/Users/Owner/Documents/Unreal Projects/UnrealPractice/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularGlow.uasset",
+				"C:/Users/Owner/Documents/Unreal Projects/UnrealPractice/Content/LevelPrototyping/Meshes/SM_SM_ChamferCube.uasset"
+			]
+		}
+	]
+}
