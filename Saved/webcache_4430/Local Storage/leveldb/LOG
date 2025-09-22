@@ -1,2 +1,3 @@
-2025/09/15-20:47:03.994 5334 Creating DB C:/Users/Owner/Documents/Unreal Projects/UnrealPractice/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2025/09/15-20:47:04.010 5334 Reusing MANIFEST C:/Users/Owner/Documents/Unreal Projects/UnrealPractice/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/09/22-00:04:00.590 ad0 Reusing MANIFEST C:/Users/Owner/Documents/Unreal Projects/UnrealPractice/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/09/22-00:04:00.591 ad0 Recovering log #3
+2025/09/22-00:04:00.592 ad0 Reusing old log C:/Users/Owner/Documents/Unreal Projects/UnrealPractice/Saved/webcache_4430\Local Storage\leveldb/000003.log 

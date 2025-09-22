@@ -16,7 +16,17 @@
 				"C:/Users/Owner/Documents/Unreal Projects/UnrealPractice/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Edge.uasset",
 				"C:/Users/Owner/Documents/Unreal Projects/UnrealPractice/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularBand.uasset",
 				"C:/Users/Owner/Documents/Unreal Projects/UnrealPractice/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularGlow.uasset",
-				"C:/Users/Owner/Documents/Unreal Projects/UnrealPractice/Content/LevelPrototyping/Meshes/SM_SM_ChamferCube.uasset"
+				"C:/Users/Owner/Documents/Unreal Projects/UnrealPractice/Content/LevelPrototyping/Meshes/SM_SM_ChamferCube.uasset",
+				"C:/Users/Owner/Documents/Unreal Projects/UnrealPractice/Content/Level/StartmenuLevel.umap",
+				"C:/Users/Owner/Documents/Unreal Projects/UnrealPractice/Content/StarterContent/Blueprints/WBP/WBP_StartMenu.uasset",
+				"C:/Users/Owner/Documents/Unreal Projects/UnrealPractice/Content/Blueprints/GameModes/GM_StartMenuLevel.uasset",
+				"C:/Users/Owner/Documents/Unreal Projects/UnrealPractice/Content/Level/L_Levelone.umap",
+				"C:/Users/Owner/Documents/Unreal Projects/UnrealPractice/Content/Blueprints/Triggerables/BP_triggerable.uasset",
+				"C:/Users/Owner/Documents/Unreal Projects/UnrealPractice/Content/Level/BP_triggerable.uasset",
+				"C:/Users/Owner/Documents/Unreal Projects/UnrealPractice/Content/Blueprints/Triggerables/BP_SlidingDoor.uasset",
+				"C:/Users/Owner/Documents/Unreal Projects/UnrealPractice/Content/Level/BP_triggerable1.uasset",
+				"C:/Users/Owner/Documents/Unreal Projects/UnrealPractice/Content/SciFiDoors/Meshes/SM_Frame.uasset",
+				"C:/Users/Owner/Documents/Unreal Projects/UnrealPractice/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/4V/1AG4YC5NFBBDL96BEBKY9B.uasset"
 			]
 		}
 	]
